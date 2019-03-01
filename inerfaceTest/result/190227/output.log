@@ -1,0 +1,68 @@
+2019-02-27 10:51:43,764 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 10:51:44,955 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 10:51:46,336 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 10:51:47,627 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 10:56:34,238 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 10:56:35,009 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 10:56:35,750 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 10:56:36,231 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:02:36,902 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:02:37,433 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:02:38,073 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:02:38,495 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:13:42,207 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:13:42,956 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:13:43,643 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:13:44,423 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:13:44,924 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:13:44,924 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:13:44,924 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:80] - INFO: doesn't send report email to developer
+2019-02-27 15:14:58,816 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:14:59,674 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:15:00,502 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:15:01,610 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:15:02,172 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:15:02,172 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:29:01,391 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:29:02,436 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:29:02,999 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:29:03,810 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:29:04,326 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:29:04,326 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:32:02,915 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:32:04,241 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:32:04,804 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:32:05,350 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:32:05,788 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:32:05,788 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:39:40,158 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:39:41,157 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:39:41,875 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:39:42,515 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:39:42,984 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:39:42,984 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:40:45,557 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:40:46,352 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:40:46,977 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:40:47,601 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:40:48,039 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:40:48,055 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:40:48,055 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: 'SMTP' object has no attribute 'connct'
+2019-02-27 15:40:48,055 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: 'SMTP' object has no attribute 'connct'
+2019-02-27 15:41:29,474 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:41:30,098 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:41:30,629 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:41:31,144 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:41:31,582 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:41:31,582 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:41:32,846 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: (554, b'DT:SPM 163 smtp14,EsCowADH5e7NPnZcv_v2HQ--.34114S2 1551253198,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.96&hostid=smtp14&time=1551253198')
+2019-02-27 15:41:32,846 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: (554, b'DT:SPM 163 smtp14,EsCowADH5e7NPnZcv_v2HQ--.34114S2 1551253198,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.96&hostid=smtp14&time=1551253198')
+2019-02-27 15:50:08,793 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:56] - INFO: Test START
+2019-02-27 15:50:09,589 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:50:10,183 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-27 15:50:10,845 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:50:11,336 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-27 15:50:11,336 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-27 15:50:12,641 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: (554, b'DT:SPM 163 smtp12,EMCowADHXAbVQHZctdlEHQ--.54723S2 1551253718,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.96&hostid=smtp12&time=1551253718')
+2019-02-27 15:50:12,641 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:89] - ERROR: (554, b'DT:SPM 163 smtp12,EMCowADHXAbVQHZctdlEHQ--.54723S2 1551253718,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.96&hostid=smtp12&time=1551253718')
+2019-02-27 15:51:42,249 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:88] - ERROR: (554, b'DT:SPM 163 smtp12,EMCowACHRBIvQXZcqQ9FHQ--.60264S2 1551253807,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.96&hostid=smtp12&time=1551253807')

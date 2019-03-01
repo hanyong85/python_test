@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<database name="newsitetest">
+		<table name="rs_member_wa_llet_bill">
+			<sql sql_id="select_member">select * from user</sql> 
+			<sql sql_id="delete_user">
+				delete from rs_member_wa_llet_bill wherr user=1 with ur
+			</sql> 
+		</table>
+	</database>
+</page>

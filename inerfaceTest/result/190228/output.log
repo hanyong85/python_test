@@ -1,0 +1,22 @@
+2019-02-28 09:09:51,806 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:95] - ERROR: (535, b'Error: authentication failed')
+2019-02-28 09:10:30,027 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:95] - ERROR: 'Log' object has no attribute 'loggger'
+2019-02-28 09:36:48,564 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:57] - INFO: Test START
+2019-02-28 09:36:49,657 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:36:50,422 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:36:51,140 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:36:51,656 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:36:51,656 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:71] - INFO: test end
+2019-02-28 09:40:08,499 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:59] - INFO: Test START
+2019-02-28 09:40:10,185 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:40:10,857 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:40:11,372 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:40:11,810 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:40:11,810 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:73] - INFO: test end
+2019-02-28 09:49:19,211 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:59] - INFO: Test START
+2019-02-28 09:49:19,980 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:49:20,731 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:67] - INFO: 200
+2019-02-28 09:49:21,311 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:49:21,814 - D:\eclipse-workspace\inerfaceTest\common\configHttp.py[line:52] - INFO: 200
+2019-02-28 09:49:21,816 - D:\eclipse-workspace\inerfaceTest\runAll.py[line:73] - INFO: test end
+2019-02-28 09:49:23,488 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:95] - ERROR: (554, b'DT:SPM 163 smtp13,EcCowABHeaPDPXdcYcJTHw--.15356S2 1551318469,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.14&hostid=smtp13&time=1551318469')
+2019-02-28 09:49:23,488 - D:\eclipse-workspace\inerfaceTest\common\configEmail.py[line:95] - ERROR: (554, b'DT:SPM 163 smtp13,EcCowABHeaPDPXdcYcJTHw--.15356S2 1551318469,please see http://mail.163.com/help/help_spam_16.htm?ip=36.113.35.14&hostid=smtp13&time=1551318469')
