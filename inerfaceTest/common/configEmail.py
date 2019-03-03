@@ -115,7 +115,6 @@ class MyEmail:
 
 if __name__ =="__main__":
     email=Email()
-    #email.check_file()
     #email.config_file()
     email.send_email()
             
