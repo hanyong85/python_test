@@ -57,8 +57,8 @@ class MyTest(unittest.TestCase):
             suit = self.set_case_suite()
             if suit is not None:
                 log.logger.info("Test START")
-                now = str(datetime.now().strftime('%y%m%d%H%M%S'))
-                fp=open(self.reportpath+'\\'+now+'.html',"wb")
+                #now = str(datetime.now().strftime('%y%m%d%H%M%S'))
+                fp=open(self.reportpath+'\\'+'report'+'.html',"wb")
                 print(fp)
                 runner = HTMLTestRunner_cn.HTMLTestRunner(stream=fp,title="自动化测试学习用例报告",description='自动化测试学习用例报告')
                 runner.run(suit)
