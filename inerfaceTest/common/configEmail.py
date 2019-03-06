@@ -56,7 +56,7 @@ class Email:
         reportpath=os.path.join(readConfig.proDir,'result','report')            
         #files = glob.glob(reportpath +'\*')
         #print(files)
-        zippath=reportpath+datetime.datetime.now().strftime("%H%M%S")+'.zip'
+        zippath=reportpath+datetime.now().strftime("%H%M%S")+'.zip'
         #f=zipfile.ZipFile(zippath,'w',zipfile.ZIP_DEFLATED)
             #for file in files:
                 #f.write(file)
