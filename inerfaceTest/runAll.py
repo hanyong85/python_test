@@ -12,6 +12,8 @@ from common.configEmail import Email
 from common.Logtest import MyLog 
 import logging
 from datetime import datetime
+import coverage
+
 
 class MyTest(unittest.TestCase):
     def __init__(self):
@@ -71,7 +73,7 @@ class MyTest(unittest.TestCase):
         finally:
             print("test end")
             log.logger.info("test end")
-            
+        """
             email =Email()
             localReadConfig=readConfig.readConfig()
             on_off = localReadConfig.get_email("on_off")
@@ -83,9 +85,15 @@ class MyTest(unittest.TestCase):
             else:
                 print("Unknow state.")
                 log.logger.info("Unknow state.")
+            """
                 
 if __name__=="__main__":
+    cov=coverage.coverage()
+    cov.start()
     C=MyTest()
     C.run()
+    cov.stop()
+    cov.report()
+    cov.xml_report(outfile='D:\\Jenkins\\workspace\\自动化测试\\inerfaceTest\\result\\report\\covxml.xml')
             
         
